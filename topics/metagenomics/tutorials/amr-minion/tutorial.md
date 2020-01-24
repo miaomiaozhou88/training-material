@@ -1,7 +1,7 @@
 ---
 layout: tutorial_hands_on
 
-title: Maartens Tutorial
+title: Miaomiao Tutorial
 zenodo_link: ''
 questions:
 - Which biological questions are addressed by the tutorial?
